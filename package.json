@@ -1,0 +1,6 @@
+{
+  "name": "BYOL",
+  "dependencies": {
+    "orangeduck/mpc": "0.8.6"
+  }
+}
